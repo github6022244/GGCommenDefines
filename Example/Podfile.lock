@@ -1,0 +1,16 @@
+PODS:
+  - GGCommenDefines (0.1.0)
+
+DEPENDENCIES:
+  - GGCommenDefines (from `../`)
+
+EXTERNAL SOURCES:
+  GGCommenDefines:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GGCommenDefines: 6f3a797b001d666e2b1535d0a8e03f0b2cd81d99
+
+PODFILE CHECKSUM: f20bca9efcf60ba07d7083d8ab00d490dd146aee
+
+COCOAPODS: 1.8.4

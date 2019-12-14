@@ -1,0 +1,6 @@
+framework module GGCommenDefines {
+  umbrella header "GGCommenDefines-umbrella.h"
+
+  export *
+  module * { export * }
+}
